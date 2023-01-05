@@ -1,0 +1,16 @@
+body {
+  background-color: #000;
+    color: white;
+    padding: 20px;
+}
+h1, h2 {
+padding-bottom: 2%;
+}
+
+#log {
+  margin-top: 20px;
+  padding: 1%;
+  font-family: monospace;
+  background-color: gray;
+  white-space: pre;
+}
